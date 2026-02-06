@@ -20,6 +20,7 @@ A **physical machine** entirely allocated to **one user**.
 
 A **virtual machine** created inside a physical server.
 
+* All things we use like EC2, hoistinger, google cloud, azure, DigitalOcean and Contabo all they provide only VPS not dedicated server.
 * Dedicated resources (CPU/RAM quota)
 * Hardware is shared
 * Full root access
